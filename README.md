@@ -51,3 +51,7 @@ At the time of writing, these components are very widely available at various ar
 To edit the CAD files you need [FreeCAD](https://www.freecad.org/). The files were created using FreeCAD 0.20. While they aren't the cleanest or prettiest CAD files out there, they are at least somewhat parameterized. However, don't expect everything to just work with any random values. You will probably have to re-align some things (e.g. finger joints) if you change things like material thickness.
 
 Why FreeCAD? Because it's free and works on my computer. Basically every other CAD suite has draconian licensing terms and works poorly on Linux.
+
+## Licensing
+
+All the files in this repository are licensed under CreativeCommons Attribution-ShareAlike 4.0 International.
