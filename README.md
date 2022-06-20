@@ -1,8 +1,8 @@
+![100% original Plybox logo](logo.png)
+
 # Plybox — a laser cut plywood hitbox-layout fighting game controller
 
 Plybox is my attempt at producing a low-cost and easy to assemble hitbox-style fighting game controller. Made out of laser cut plywood and acrylic, the materials are relatively inexpensive and easy to acquire, and assembly requires no real woodworking expertise beyond gluing and sanding.
-
-![100% original Plybox logo](logo.png)
 
 ## Equipment & Bill of materials
 
