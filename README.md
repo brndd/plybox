@@ -23,7 +23,7 @@ The total cost of materials is somewhere on the order of 10-20€.
 **For the components, you'll want:**
 
 - 1x Sanwa OBSF 30mm arcade button, or any other 30mm arcade button capable of attaching to 3mm acrylic
-- 15x Sanwa OBSF 24mm arcade button, or any other 24mm arcade button capable of attaching to 3mm acrylic (a version with two extra 24mm buttons is included, should you wish to bind every button on a PS4 controller)
+- 15x Sanwa OBSF 24mm arcade button, or any other 24mm arcade button capable of attaching to 3mm acrylic and 4mm plywood (a version with two extra 24mm buttons is included, should you wish to bind every button on a PS4 controller)
 - 1x Neutrik NAUSB-W Reversible USB gender changer & M3 mounting screws and nuts for it
 - Some kind of PCB (low-cost recommendation: the [Pico Fighting Board](https://github.com/FeralAI/PicoFightingBoard) or just a naked Raspberry Pi Pico running the [GP2040 firmware](https://github.com/FeralAI/GP2040))
 - Wires, 2.8mm female lug connectors (for Sanwa buttons, at least), USB cables
