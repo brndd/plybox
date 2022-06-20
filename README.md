@@ -56,4 +56,4 @@ Why FreeCAD? Because it's free and works on my computer. Basically every other C
 
 ## Licensing
 
-All the files in this repository are licensed under CreativeCommons Attribution-ShareAlike 4.0 International.
+All the files in this repository are licensed under [CreativeCommons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/).
