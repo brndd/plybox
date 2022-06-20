@@ -4,6 +4,8 @@
 
 Plybox is my attempt at producing a low-cost and easy to assemble hitbox-style fighting game controller. Made out of laser cut plywood and acrylic, the materials are relatively inexpensive and easy to acquire, and assembly requires no real woodworking expertise beyond gluing and sanding.
 
+![unflattering photo](photo.jpg)
+
 ## Equipment & Bill of materials
 
 **For the box, you need:**
