@@ -41,7 +41,7 @@ At the time of writing, these components are very widely available at various ar
 3. Using wood glue, glue 4 nut holder pieces to the bottom side of the undercover piece. Glue the remaining 4 nut holder pieces together with the similarly shaped screw hole pieces. You may glue these by hand without using clamps or jigs, but be careful with the alignment.
 4. Attach the back wall button plate to the back wall using the tap joints and wood glue. Clamp together to ensure tight fit (make sure it's the right way around so the Neutrik will fit correctly).
 5. Glue the interior vertical support structure together.
-6. Wait about 15 minutes for the glue to dry for each of the parts you just assembled.
+6. Wait about 15 minutes for the glue to dry on the parts you just assembled.
 7. Using cyanoacrylate (superglue) or epoxy, affix M4 nuts in the hex pocket of each nut holder piece. Be careful not to get glue in the threads.
 8. Working around the internal support structure, glue together the rest of the box. I do this by going one side at a time, spreading wood glue on every contact surface as I go. Wood glue sets quite slowly so you have a good 10-20 minutes to do this step. Wipe off any glue residue that gets squeezed out; it's easier to do before it dries.
 9. Clamp the box tight from all sides to ensure a good fit. I recommend putting the bottom cover in place during clamping to ensure that it'll still fit after the box is all glued together.
@@ -56,4 +56,4 @@ Why FreeCAD? Because it's free and works on my computer. Basically every other C
 
 ## Licensing
 
-All the files in this repository are licensed under CreativeCommons Attribution-ShareAlike 4.0 International.
+All the files in this repository are licensed under [CreativeCommons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by/4.0/).
