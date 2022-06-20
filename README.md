@@ -30,7 +30,7 @@ The total cost of materials is somewhere on the order of 10-20€.
 
 The total cost of components will depend a lot on where you buy from. For the builds I did it was about 70-80€.
 
-At the time of writing, these components are very widely available at various arcade equipment retailers. The design is built around these exact components, so you will likely have to shuffle things around if you substitute them. Webstores that carry these include: [Smallcab.net](https://www.smallcab.net/) (EU France), [Arcade World UK](https://www.arcadeworlduk.com/) (UK), [ArcadeForge](https://arcadeforge.net/) [EU Germany], [ArcadeShock](https://arcadeshock.com/) (US).
+At the time of writing, these components are very widely available at various arcade equipment retailers. The design is built around these exact components, so you will likely have to shuffle things around if you substitute them. Webstores that carry these include: [Smallcab.net](https://www.smallcab.net/) (EU France), [Arcade World UK](https://www.arcadeworlduk.com/) (UK), [ArcadeForge](https://arcadeforge.net/) (EU Germany), [ArcadeShock](https://arcadeshock.com/) (US).
 
 ## Assembly instructions
 
