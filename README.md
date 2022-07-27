@@ -44,7 +44,7 @@ At the time of writing, these components are very widely available at various ar
 6. Wait about 15 minutes for the glue to dry on the parts you just assembled.
 7. Using cyanoacrylate (superglue) or epoxy, affix M4 nuts in the hex pocket of each nut holder piece. Be careful not to get glue in the threads.
 8. Working around the internal support structure, glue together the rest of the box. I do this by going one side at a time, spreading wood glue on every contact surface as I go. Wood glue sets quite slowly so you have a good 10-20 minutes to do this step. Wipe off any glue residue that gets squeezed out; it's easier to do before it dries.
-9. Clamp the box tight from all sides to ensure a good fit. I recommend putting the bottom cover in place during clamping to ensure that it'll still fit after the box is all glued together.
+9. Clamp the box tight from all sides to ensure a good fit. I recommend putting the bottom cover as well as the acrylic top cover in place during clamping to ensure a good fit. Don't worry too much about getting glue on the acrylic, as wood glue comes off of plastic easily.
 10. Wait at least 15-20 minutes for the glue to dry.
 11. Sand and finish to taste.
 
